@@ -1,7 +1,7 @@
 # Marist-2018-Spring-Hackathon
 
 Goals:
-Create a mockup of a form of project to present by Sunday, April 15th
+Create a mockup of a form of project to present by Sunday, April 15th\n
 Use >= 1 Watson API
 
 Ideas:
